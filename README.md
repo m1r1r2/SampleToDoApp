@@ -14,10 +14,19 @@ React Native (Expo)
 Expo Local Authentication
 Context API for state management
 
-## 📦 Install Dependencies
-After cloning, run the following to install all required packages:
+⚙️ Installation & Setup
 
+## Clone the repository:
+git clone https://github.com/m1r1r2/SampleToDoApp.git
+cd sampletodoapp
+
+
+## Install dependencies:
 npm install
 # or
 yarn install
+
+
+## Start the app:
+expo start
 
