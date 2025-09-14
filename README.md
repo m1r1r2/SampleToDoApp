@@ -14,7 +14,7 @@ React Native (Expo)
 Expo Local Authentication
 Context API for state management
 
-⚙️ Installation & Setup
+## Installation & Setup
 
 ## Clone the repository:
 git clone https://github.com/m1r1r2/SampleToDoApp.git
