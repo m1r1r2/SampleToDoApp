@@ -3,11 +3,11 @@ A simple TODO list application built with React Native (Expo) that uses biometri
 
 
 ## Features
-Biometric authentication using expo-local-authentication
-Add, update, and delete TODO items
-Clean and minimal UI with React Native
-Robust state management using Context API
-Authentication required before accessing the TODO list
+1.Biometric authentication using expo-local-authentication
+2.Add, update, and delete TODO items
+3.Clean and minimal UI with React Native
+4.Robust state management using Context API
+5.Authentication required before accessing the TODO list
 
 ## Tech Stack
 React Native (Expo)
